@@ -1,0 +1,94 @@
+
+A CV has been submitted for a job application.
+
+Assume that this application is being evaluated on 31 December 2019.
+Treat "current" or "present" in the CV as current on that date.
+Do not infer events or employment after that date.
+
+<CANDIDATE_NAME>
+[NAME]
+</CANDIDATE_NAME>
+
+<JOB_DESCRIPTION>
+[VACANCY]
+</JOB_DESCRIPTION>
+
+<CV>
+[CV]
+</CV>
+
+Evaluate the quality of the CV in relation to the job description using the
+following five criteria.
+
+1. RELEVANCE TO THE ROLE
+
+How well does the candidate's experience align with the job role and its
+requirements?
+
+1 = No relevance to the role.
+2 = Minimal relevance to the role.
+3 = Some relevance, but the alignment could be stronger.
+4 = Strong relevance to the role.
+5 = Excellent alignment with the job role and its requirements.
+
+2. SIGNIFICANCE AND IMPACT
+
+How significant or impactful is the experience described in the CV in the
+context of the job being applied for?
+
+1 = No meaningful impact; the experience is irrelevant to the job.
+2 = Minimal impact; the experience has some relevance but is not significant.
+3 = Moderate impact; the experience is relevant but could be more significant.
+4 = Significant impact; the experience is highly relevant to the job.
+5 = Extremely significant impact; the experience is central to the job.
+
+3. SKILL RELEVANCE
+
+How relevant are the skills described in the CV to the job description? How
+applicable are those skills to the role being applied for?
+
+1 = No relevant skills.
+2 = Some skills are relevant, but they are not closely related to the role.
+3 = Several skills are relevant, but important gaps remain.
+4 = The skills are highly relevant and applicable to the role.
+5 = The skills provide an excellent match with the job requirements.
+
+4. ACHIEVEMENTS AND IMPACT
+
+How impactful are the candidate's achievements or contributions in previous
+roles?
+
+1 = No notable achievements or contributions are described.
+2 = Some achievements or contributions are described, but their impact is
+limited.
+3 = Achievements or contributions are present, but their impact is not
+substantial.
+4 = Significant achievements or contributions with clear evidence of results
+are described.
+5 = Highly impactful achievements or contributions with outstanding results
+are described.
+
+5. CULTURAL FIT AND PERSONAL TRAITS
+
+How well do the candidate's background and personal traits fit the working
+environment, values, and interpersonal expectations described in the job vacancy?
+
+1 = No apparent cultural fit and no relevant personal traits are evident.
+2 = Minimal cultural fit and only limited relevant personal traits are evident.
+3 = Some cultural fit and some relevant personal traits are evident.
+4 = Good cultural fit and the candidate's traits align well with the role.
+5 = Excellent cultural fit and the candidate demonstrates exceptionally strong
+alignment with the role.
+
+Return only one valid JSON object containing exactly the following five keys:
+
+relevance_to_role
+significance_impact
+skill_relevance
+achievements_impact
+cultural_fit_personal_traits
+
+The value associated with each key must be an integer from 1 to 5.
+
+Do not include an overall score, explanations, Markdown formatting, code
+fences, comments, or additional keys.

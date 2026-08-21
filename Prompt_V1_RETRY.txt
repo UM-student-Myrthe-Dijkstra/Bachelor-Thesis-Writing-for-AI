@@ -1,0 +1,14 @@
+Your previous response could not be parsed because it did not follow the required output format.
+
+Return only one valid JSON object containing exactly these five keys:
+
+relevance_to_role
+significance_impact
+skill_relevance
+achievements_impact
+cultural_fit_personal_traits
+
+Each value must be an integer from 1 to 5.
+
+Do not include Markdown, code fences, explanations, comments, or additional keys.
+Do not reconsider or change the evaluation merely because this is a formatting retry.
