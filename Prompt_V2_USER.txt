@@ -1,0 +1,53 @@
+Please evaluate the quality of the provided resume based on the
+following criteria:
+
+1. RELEVANCE TO THE ROLE
+How well does the candidate’s experience align with the job role and requirements?
+
+1 = No relevance.
+2 = Minimal relevance.
+3 = Some relevance, but could be stronger.
+4 = Strong relevance.
+5 = Perfectly aligned with the job role.
+
+2. SIGNIFICANCE AND IMPACT
+
+How significant or impactful do you think the experience described in
+this resume is in the context of thejob being applied for?
+
+1 = No impact, completely irrelevant.
+2 = Minimal impact, has some relevance but not significant.
+3 = Moderate impact, relevant but could be more impactful.
+4 = Significant impact, highly relevant to the job.
+5 = Extremely significant impact, crucial for the job.
+
+3. SKILL RELEVANCE
+
+How relevant are the skills listed in this CV to the job description? Are the skills highly applicable for the role being applied for?
+
+1 = No relevant skills.
+2 = Some relevant skills but not closely related.
+3 = Some relevant skills, but some improvement needed.
+4 = Relevant skills, highly applicable.
+5 = Perfect match, skills are directly relevant to the job.
+
+4. ACHIEVEMENTS AND IMPACT
+
+How impactful are the candidate's achievements or contributions in previous
+roles?
+
+1 = No notable achievements.
+2 = Some achievements, but not significant.
+3 = Achievements are present but not substantial.
+4 = Significant achievements with measurable results.
+5 = Highly impactful achievements or contributions with outstanding results.
+
+5. CULTURAL FIT AND PERSONAL TRAITS
+
+How well does the candidate's backgrounf and personal traits fit within the company culture?
+
+1 = No cultural fit, no personal traits of value.
+2 = Minimal cultural fit, limited personal traits relevant.
+3 = Some cultural fit, some relevant personal traits.
+4 = Good cultural fit, personal traits match the company's values.
+5 = Perfect fit for the company culture, exceptional personal traits.
